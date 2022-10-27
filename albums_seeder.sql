@@ -32,4 +32,4 @@ VALUES ('Michael Jackson', 'Thriller', 1982, 70, 'Pop, post-disco, funk, rock'),
        ('Pink Floyd', 'The Wall', 1979, 30, 'Progressive rock'),
        ('The Beatles', 'Sgt. Pepper''s Lonely Hearts Club Band', 1967, 30, 'Rock'),
        ('Michael Jackson', 'Dangerous', 1991, 30, 'New jack swing, R&B and pop'),
-       ('The Beatles', 'Abbey Road', 1969, 30, 'Rock')
+       ('The Beatles', 'Abbey Road', 1969, 30, 'Rock');
